@@ -34,7 +34,7 @@ You just edit the `_data` folder files, The code will get updated automatically.
 The advanced editing and detail description will be adding soon in wiki sections.      
 Glad if you can help me to do that fast.    
 
-Mean while if you need help write a line **hello@blackode.in** or raise an **issue** in issues section.
+Mean while if you need help write a line **ferit@cryptolab.net** or raise an **issue** in issues section.
  
 
 
