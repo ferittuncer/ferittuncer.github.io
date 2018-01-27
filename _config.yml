@@ -22,7 +22,7 @@ email: ferit@cryptolab.net
 description: > # this means to ignore newlines until "baseurl:"
   Well, here is my resume.
 baseurl: / # the subpath of your site, e.g. /blog
-url: "http://ferittuncer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ferittuncer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: blackcatjive
 github_username:  ferittuncer
 
