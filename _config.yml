@@ -29,7 +29,7 @@ github_username:  ferittuncer
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
+plugins_dir:
   - jekyll-feed
 sass:
   sass-dir: _sass
