@@ -1,6 +1,6 @@
 data:
   - name: Exlist
-    url: "https://blackode.in/exlist"
+    url: "https://github.com/ferittuncer/exlist"
     class: "elixir expack"
     img: "/images/portfolio/exlist.png"
     desc: >
@@ -14,7 +14,7 @@ data:
       TCP Client & Server Implementation
 
   - name: Typex
-    url: "https://blackode.in/typex"
+    url: "https://github.com/ferittuncer/typex"
     img: "/images/portfolio/typex.png"
     class: "expack elixir"
     desc: >
@@ -29,14 +29,14 @@ data:
 
 
   - name: Printex
-    url: "https://blackode.in/exlist"
+    url: "https://github.com/ferittuncer/exlist"
     class: "expack elixir"
     img: "/images/portfolio/printex.png"
     desc: >
       Color Log Printer
 
   - name: IsX
-    url: "https://blackode.in/is_x"
+    url: "https://github.com/ferittuncer/is_x"
     img: "/images/portfolio/isx.png"
     class: "expack elixir"
     desc: >
@@ -50,7 +50,7 @@ data:
       Slack Client
 
   - name: Printex
-    url: "https://blackode.in/exlist"
+    url: "https://github.com/ferittuncer/exlist"
     class: "expack elixir"
     img: "/images/portfolio/printex.png"
     desc: >
