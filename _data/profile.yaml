@@ -1,19 +1,14 @@
 name: Ferit Tunçer
 title: UNDER CONSTRUCTION
-firstName: ""
-lastName: ""
+firstName: "Ferit"
+lastName: "Tunçer"
 email: ferit@cryptolab.net
-phone: I prefer not to give :)
 website: https://github.com/ferittuncer
 description: > # This means ignore new line until
-    TODO
+    Content in this website is not valid yet. 
 
 social:
-  accounts: facebook,behance,youtube,twitter,medium,linkedin,github # add new account here and link in following
-  linkedin: TODO
-  twitter: TODO
-  facebook: TODO
-  youtube: TODO
-  medium: TODO
+  accounts: linkedin,github # add new account here and link in following
+  linkedin: https://tr.linkedin.com/in/ferit-tuncer/en
   github: https://github.com/ferittuncer
-  behance: TODO
+  
