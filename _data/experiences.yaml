@@ -1,12 +1,4 @@
-- title: Full Stack Developer
-  period: 2017 - Present
-  company: Free Lancer
-  location: Istanbul
-  description: >
-    Free Lancing on Backend Software Development, Web Development, Performance Engineering and Graphic Designing.
-    Experienced in Continuous Development and responsible for Code Performance and Code Refactoring. Played a Core Elixir Developer
-    role in CoAP Protocol Development - an Elixir open source library for IOT communication among the devices connected in Constrained
-    Networks.
+
 
 - title: Elixir Library Developer
   period: 2016 (October- Dec)
@@ -27,8 +19,14 @@
 
 - title: Software Engineer / Full-Time Intern
   period: 2013 July - September
-  company: [https://www.vakifbank.com.tr/]({% VakıfBank %})
+  company: VakıfBank
   location: Istanbul
   description: >
     I took part in researching the economic and technical feasibility of using Microsoft BizTalk for building an enterprise service bus. 
 
+- title: Programmer / Part-Time
+  period: 2012 February - 2014 April
+  company: Marmara University
+  location: Istanbul (remote)
+  description: >
+    I programmed and maintained a software tool in Java for benchmarking newly developed algorithm for the problem of scheduling on a single machine to minimize the maximum lateness when each job has a different ready time, processing time, and due date. This work is published as follows: Calis, Banu, Serol Bulkan, and Ferit Tuncer. "A heuristic approach to minimizing maximum lateness on a single machine." South African Journal of Industrial Engineering 26.3 (2015): 41-53.
