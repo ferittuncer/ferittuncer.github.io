@@ -27,7 +27,7 @@
 
 - title: Software Engineer / Full-Time Intern
   period: 2013 July - September
-  company: [VakıfBank](https://www.vakifbank.com.tr/)
+  company: [https://www.vakifbank.com.tr/]({% VakıfBank %})
   location: Istanbul
   description: >
     I took part in researching the economic and technical feasibility of using Microsoft BizTalk for building an enterprise service bus. 
