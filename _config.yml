@@ -39,6 +39,9 @@ host: 0.0.0.0
 published: true
 futue: true
 
+gems:
+- jekyll-pdf
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
