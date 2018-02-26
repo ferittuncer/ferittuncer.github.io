@@ -2,6 +2,7 @@
 layout: default
 pdf: true
 ---
+{{ variable | jsonify }}
     [PDF]({{ page.pdf_url }} | {{ site.page.pdf_url }})
 <section id="header" class="theme-blue element">
     {% include header.html %}
