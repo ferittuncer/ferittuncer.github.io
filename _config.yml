@@ -46,7 +46,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: ""
     values:
       pdf: true
 
