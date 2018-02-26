@@ -1,16 +1,11 @@
 - title: Software Engineer
-  period: 2017 Jul - 2018 Mar / Full-Time, softbreak
+  period: 2017 Jul - 2018 Mar / Full-Time
+  period-secondary: 2017 Feb - 2017 Jul / Part-Time
   company: Melina Aero
   location: Istanbul
   description: >
     TODO
 
-- title: Software Engineer
-  period: 2017 Feb - 2017 Jul / Part-Time   linebreak
-  company: Melina Aero
-  location: Istanbul
-  description: >
-    TODO
 
 - title: Marmara Turkish Coreference Corpus and Coreference Resolution Baseline
   period: 2015 Sep - 2017 Dec / Bachelor's Thesis
