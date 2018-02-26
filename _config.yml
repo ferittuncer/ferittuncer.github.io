@@ -51,9 +51,10 @@ defaults:
       pdf: true
 
 pdf:
-  cache: false | directory | default: .asset-cache
-  page_size: A4, Letter, etc. | default: A4
-  layout: layout | default: pdf
+ -
+    cache: false | directory | default: .asset-cache
+    page_size: A4, Letter, etc. | default: A4
+    layout: layout | default: pdf
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
