@@ -1,9 +1,10 @@
 ---
 layout: default
+pdf: true
 ---
 <p>page rendered at {{ site.time }}</p>
 {{ variable | jsonify }}
-    [PDF]({{ page.pdf_url }} | {{ site.pdf_url }})
+    [PDF]({{ page.pdf_url }} | {{ site.page.pdf_url }})
 <section id="header" class="theme-blue element">{% include header.html %}</section>
 
 <section id="contacts-bar">{% include nav.html class="justify-content-center" links = site.data.contact-links type="contacts-bar" %}</section>
