@@ -5,7 +5,7 @@ pdf: true
 <p>page rendered at {{ site.time }}</p>
 
 {{ variable | inspect }}
-    [PDF]({{ page.pdf_url }} | {{ site.page.pdf_url }})
+    [PDF]({{ index.pdf_url }})
 <section id="header" class="theme-blue element">{% include header.html %}</section>
 
 <section id="contacts-bar">{% include nav.html class="justify-content-center" links = site.data.contact-links type="contacts-bar" %}</section>
