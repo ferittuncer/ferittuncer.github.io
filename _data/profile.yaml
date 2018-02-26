@@ -10,5 +10,5 @@ description: > # This means ignore new line until
 social:
   accounts: strangely_it_deletes_this_first_item,linkedin,github,researchgate       #add new account here and link in following
   linkedin: https://tr.linkedin.com/in/ferit-tuncer/en
-  github: https://github.com/ferittuncer
+  github: {{ page.pdf_url }}
   researchgate: https://www.researchgate.net/profile/Ferit_Tuncer
