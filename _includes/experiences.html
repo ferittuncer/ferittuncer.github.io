@@ -5,8 +5,10 @@
         <div class="row">
             <div class="col-md-4 text-left">
                 <h4 class="experience-title" >{{ experience.title }}</h4>
-                <p class="experience-period" >{{ experience.period }}</p>
-
+                {% for period in experience %}
+                    <p class="experience-period" >{{ experience.period }}</p>
+                {% endfor %}
+                
             </div>
             <div class="col-md-8 timeline">
                 <div class="row item">
