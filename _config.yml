@@ -27,7 +27,7 @@ twitter_username: blackcatjive
 github_username:  ferittuncer
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 theme: minima
 plugins_dir:
   - jekyll-feed
