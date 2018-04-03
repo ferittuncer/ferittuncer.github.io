@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/ferit
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ferittuncer.github.io
+  * I am ferit (https://keybase.io/ferit) on keybase.
+  * I have a public key with fingerprint 2B4C F128 42E4 EAD5 11EA  8F1E 044F 2A13 B448 1B4A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203fcab9ad36ea910ddeedef8fc89ea7227615ef8023c82b16a6c1c106b048971b0a",
+      "fingerprint": "2b4cf12842e4ead511ea8f1e044f2a13b4481b4a",
+      "host": "keybase.io",
+      "key_id": "044f2a13b4481b4a",
+      "kid": "0101a3135459aefad33371d336c8448a9b4c8f0d7a2e2590f137ffaeba8a53999e340a",
+      "uid": "559a299af83402e60cd0dfa986a54419",
+      "username": "ferit"
+    },
+    "service": {
+      "hostname": "ferittuncer.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1522787512,
+  "expire_in": 157680000,
+  "prev": "d962c89097e99dfc56ed3e7114e80ba390c5b5f7f3d3b638a2e013436dbc0b7a",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNyAnicZZJ/TJVVGMfvNWhwkWLeNoRmtVcQiF/veX+/OBQrTHDg0NLlpS7nfd/z
+3vsq3Xt973svkpJkEwrKXxiMMWB1WUpNBKHE+SOEmNdyksu5kXMoWmiaORdpBtJ5
+Nbe2zh/n7HnO9/mc73nO+Tb2CYvNGrHiRXvfsmcLrd+faAtY1g5d7d9ESF6lksjZ
+RKxHDxdUriC/4VyvKUQOQQKKpFUZSiJUaA5BEZCKgpCCVEGVBRFBnqJ4DrA4Jila
+FigJcJCTgQxITiIZQeSBREIig1A1jwvpPl3zGBhLSYysAkpgKMQgqLAAICioAJEM
+o1IQ0BLDCEBizEK3129WYHMS9KMszYtzOHA+svd//WPfJIA0oFmGFSFSsXma5gGe
+OVnAWihiA4JKKjykEMWKpApoXlUhkqAAWVoURUQzD30HHuJYTKFEEaoCTlOII2WF
+VFQoChxkGQaIptCPdA98G2G1inTNIKoyCJwKajIyu2pe47/bRsAjIz3LpRnugPTo
+Vj7da3hlbzmWuA3D588xEUalz6ypQJLzX5pT0jwK7iauCCLdr3k9RA7AStnQTDxg
+8YsIPAuoDAJt9Gk6cmqmguU5gcTDPAcFMVIROQo/ISnySBQVVWY5pNCIB4BBAilB
+WiRlVmJVXqUVWuJoAXeKBDRDc4okkxJvNsePNni8mE1jn9CFmX7N5YFGQEdE1eCJ
+0giL1WZ5MnKW+c0stui4x5+vvvnpB1kX6p5/7rqSHB4Z29x0KCFU64jX/ppH3X3w
+ckzqel/wckrupW1Ma8f792AgOXNsS5mjo/pM6oFi29HU3YuPVoctZ19Y8inTNbR4
+3bGpuIx7PaEQH7ugZKcjZuL8YGhjeOVbjiNNJTGDoYRz/dlFt0+nRY3OPbA6faDX
+WZ+8fCRtJLslfHpdpP+cQF9scjafqltk0VNmrpTZey5UrOte/l1kZ6jm2pj/1/QY
+tasgvcTzceqbaFfDvsuf7wo3hJuyXo/K/eTdVcvjJ8u6Yt2lz7i0/Wc+4xLvb7Tf
+Pbls6eyIiQ1XWt22GLWvUJkcT05f8pH95mR+bXN+/eqvPwhZ7UFL8YK95Xzunr1b
+pIa/35jKjH2vYnTtgvu3ar/M/+3Q1umCdmNfVM4P5cdKU6YbK5OOJ9ef/TDCHp3X
+36DvmdNVFP6qfZw5WN8zVHXkF0qp/YkoyBv88/bmO7kJ9mxrdFHNKWc4bkt34uiO
+znEisnXgi6tpswu371/50o5Z4OStVY6LDYvm9rXDnhvFLeen6J8n5D2XbraJ5xuH
+4Y3tsaeka8N519uOv3q/YzTpj059ojBjnt41p8762orhhbujvpldrot0Ymc8e2Pp
+mvTemzNZIGCb/0pk7mhLQ6Mvib61bebwmh1k9SpXsK1m2jPwDuj9UXAcPtg97bhT
+4hYz436fv9Uo2JkXWCg+9Q/8dLrY
+=sgYC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ferit
+
+==================================================================
+
