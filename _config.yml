@@ -1,9 +1,9 @@
 # Site settings
 name: Ferit Tunçer
-title: Ferit Tunçer
-description: About Ferit Tunçer
+title: Ferit Tunçer the Software Engineer
+description: About page of Ferit Tunçer where you can find links to his GitHub, LinkedIn, StackOverflow etc.
 profession: Software Engineer
-
+url: https://ferittuncer.github.io
 
 # Delete the lines you don't need
 # about 5 elements are recomended
