@@ -47,9 +47,18 @@ permalink: /
   <body>
     <div class="content">
       {% if site.front_img %}
-      <img src="{{ site.front_img_path }}" id="fullscreen" /> {% endif %} {% if
-      site.avatar %} <img src="{{ site.avatar_img_path }}" id="avatar" /> {%
-      endif %}
+      <img
+        src="{{ site.front_img_path }}"
+        id="fullscreen"
+        alt="background image"
+      />
+      {% endif %} {% if site.avatar %}
+      <img
+        src="{{ site.avatar_img_path }}"
+        id="avatar"
+        alt="portrait of Ferit Tunçer"
+      />
+      {% endif %}
 
       <h1>{{ site.name }}</h1>
       <h3>{{ site.profession }}</h3>
