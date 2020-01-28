@@ -35,13 +35,13 @@ permalink: /
       src="https://www.googletagmanager.com/gtag/js?id=UA-102558438-1"
     ></script>
     <script>
-      window.dataLayer = window.dataLayer || []
+      window.dataLayer = window.dataLayer || [];
       function gtag() {
-        dataLayer.push(arguments)
+        dataLayer.push(arguments);
       }
-      gtag('js', new Date())
+      gtag("js", new Date());
 
-      gtag('config', 'UA-102558438-1')
+      gtag("config", "UA-102558438-1");
     </script>
   </head>
   <body>
@@ -106,6 +106,14 @@ permalink: /
         <li>
           <a class="fa fa-2x fa-key" href="{{ site.public_key_url }}"
             ><span class="description">Keybase</span></a
+          >
+        </li>
+        {% endif %} {% if site.twitter_username %}
+        <li>
+          <a
+            class="fa fa-2x fa-twitter"
+            href="https://twitter.com/{{ site.twitter_username }}"
+            ><span class="description">Twitter</span></a
           >
         </li>
         {% endif %}
